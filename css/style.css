@@ -102,6 +102,23 @@ body {
    padding: 5px;
 }
 
+.pb-container {
+    position: fixed;
+    top: 50vh;
+    right: 0;
+}
+
+.plus-button{
+    height: 4rem;
+    width: 4rem;
+    background-color: var(--blue);
+    border-radius: 50%;
+    border-style: none;
+    color: white;
+    font-size: 2rem;
+    font-weight: bold;
+ 
+}
 /*footer*/
 
 footer {
